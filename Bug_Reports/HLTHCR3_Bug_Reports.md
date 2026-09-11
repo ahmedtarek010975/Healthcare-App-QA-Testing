@@ -38,8 +38,7 @@ The system fails to validate the exact age boundary. It accepts a date of birth 
 The system accepts the date of birth, bypasses the age restriction, and successfully registers the account.
 
 ### Attachments Reference
-- 
-- [Watch Video: 66.mp4](./66.mp4)
+- [🎬 Watch Video Evidence: 66.mp4](https://github.com/ahmedtarek010975/Healthcare-App-QA-Testing/blob/main/Bug_Reports/66.mp4)
 ---
 
 ## HLTHCR3-102 — Phone Number Accepts Invalid Egyptian Prefixes (e.g., 013)
@@ -75,8 +74,7 @@ The system should block the registration and display a validation error indicati
 The system accepts the invalid prefix, bypasses validation, and successfully registers the account.
 
 ### Attachments Reference
-- [Watch Video: 67.mp4](./67.mp4)
-
+[🎬 Watch Video Evidence: 67.mp4](https://github.com/ahmedtarek010975/Healthcare-App-QA-Testing/blob/main/Bug_Reports/67.mp4)
 ---
 
 ## HLTHCR3-109 — Email Validation Accepts Invalid Formats (Consecutive Dots in Domain)
@@ -113,7 +111,7 @@ The email validation logic is insufficient. It successfully accepts an email add
 The system bypasses validation, accepts the invalid email, and successfully creates the account.
 
 ### Attachments Reference
-- [Watch Video: 68.mp4](./68.mp4)
+- [🎬 Watch Video Evidence: 68.mp4](https://github.com/ahmedtarek010975/Healthcare-App-QA-Testing/blob/main/Bug_Reports/68.mp4)
 
 ---
 
@@ -153,6 +151,5 @@ The system should maintain state across sessions but must NOT expose the passwor
 The password `Ahmed@2027` is clearly visible and stored as a plain text string in the Local Storage panel.
 
 ### Attachments Reference
-- [Watch Video: 110.mp4](./110.mp4)
-
+- [🎬 Watch Video Evidence: 110.mp4](https://github.com/ahmedtarek010975/Healthcare-App-QA-Testing/blob/main/Bug_Reports/110.mp4)
 ---
