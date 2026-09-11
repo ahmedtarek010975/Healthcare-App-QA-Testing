@@ -38,7 +38,7 @@ The system fails to validate the exact age boundary. It accepts a date of birth 
 The system accepts the date of birth, bypasses the age restriction, and successfully registers the account.
 
 ### Attachments Reference
-- [🎬 Watch Video Evidence: 66.mp4](https://github.com/ahmedtarek010975/Healthcare-App-QA-Testing/blob/main/Bug_Reports/66.mp4)
+https://github.com/user-attachments/assets/57cec97d-b19a-41ac-b2d6-9b6dc0c3fe5e
 ---
 
 ## HLTHCR3-102 — Phone Number Accepts Invalid Egyptian Prefixes (e.g., 013)
@@ -74,7 +74,8 @@ The system should block the registration and display a validation error indicati
 The system accepts the invalid prefix, bypasses validation, and successfully registers the account.
 
 ### Attachments Reference
-[🎬 Watch Video Evidence: 67.mp4](https://github.com/ahmedtarek010975/Healthcare-App-QA-Testing/blob/main/Bug_Reports/67.mp4)
+
+https://github.com/user-attachments/assets/a1e812ee-3511-42e9-8c4b-3a115c83de84
 ---
 
 ## HLTHCR3-109 — Email Validation Accepts Invalid Formats (Consecutive Dots in Domain)
@@ -111,8 +112,7 @@ The email validation logic is insufficient. It successfully accepts an email add
 The system bypasses validation, accepts the invalid email, and successfully creates the account.
 
 ### Attachments Reference
-- [🎬 Watch Video Evidence: 68.mp4](https://github.com/ahmedtarek010975/Healthcare-App-QA-Testing/blob/main/Bug_Reports/68.mp4)
-
+- https://github.com/user-attachments/assets/24aedf7f-86e3-46fe-841f-251724292eb7
 ---
 
 ## HLTHCR3-113 — Password Exposed in Plain Text Within localStorage After Registration
@@ -151,5 +151,5 @@ The system should maintain state across sessions but must NOT expose the passwor
 The password `Ahmed@2027` is clearly visible and stored as a plain text string in the Local Storage panel.
 
 ### Attachments Reference
-- [🎬 Watch Video Evidence: 110.mp4](https://github.com/ahmedtarek010975/Healthcare-App-QA-Testing/blob/main/Bug_Reports/110.mp4)
+- https://github.com/user-attachments/assets/5679be3f-a6e9-4a8b-89a0-d7453b8fd529
 ---
