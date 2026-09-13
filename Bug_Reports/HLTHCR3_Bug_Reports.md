@@ -112,9 +112,9 @@ The email validation logic is insufficient. It successfully accepts an email add
 The system bypasses validation, accepts the invalid email, and successfully creates the account.
 
 ### Attachments Reference
-- https://github.com/user-attachments/assets/24aedf7f-86e3-46fe-841f-251724292eb7
+- 
 ---
-
+https://github.com/user-attachments/assets/5679be3f-a6e9-4a8b-89a0-d7453b8fd529
 ## HLTHCR3-113 — Password Exposed in Plain Text Within localStorage After Registration
 
 ### Meta Data
@@ -151,5 +151,5 @@ The system should maintain state across sessions but must NOT expose the passwor
 The password `Ahmed@2027` is clearly visible and stored as a plain text string in the Local Storage panel.
 
 ### Attachments Reference
-- https://github.com/user-attachments/assets/5679be3f-a6e9-4a8b-89a0-d7453b8fd529
+- https://github.com/user-attachments/assets/24aedf7f-86e3-46fe-841f-251724292eb7
 ---
